@@ -1,0 +1,9 @@
+# type (any)
+> - type annotations || signature 
+> - indicate the data type of variables
+> - indicate the data type of functions input/output
+> - objects, etc.
+
+> - why we use it?
+> - is it mandatory
+> - what happen if we didn't use it

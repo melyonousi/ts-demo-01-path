@@ -1,0 +1,4 @@
+> - function
+> - - optional and defualt parameters
+> - in javascript, every parameters is optional => "undefined" if you didn't use it
+> - "?" optional parameter

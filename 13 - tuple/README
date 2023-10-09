@@ -1,0 +1,5 @@
+> - Data Types
+> - - Tuple
+> - - - is another sort of array type
+> - - - we know exactly how many elements it contains
+> - - - we know which types it contains at specific positions

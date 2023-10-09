@@ -1,0 +1,8 @@
+> - type annotation with functions
+> - no implicit any
+> - no implicit returns
+> - - will check all code paths in a functions to ensure they returns a value
+> - no unused locals
+> - - reports errors on unused local variables
+> - no unused parameters
+> - - report errors on unused parameters in functions
